@@ -6,7 +6,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - React
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- 📫 Reach out to me at: <a href="alvaroMerida.dev@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 Reach out to me at: <a href="alvaroMerida.dev@gmail.com">alvaroMerida.dev@gmail.com</a>
 
 ## My Skills Include
 
