@@ -10,7 +10,7 @@ I am a web developer, currently halfway through my degree. I am expanding my kno
 
 ## My Skills Include
 
-<h4> Programming Languages </h4>
+### 👉 Programming Languages
 <span> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
