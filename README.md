@@ -1,14 +1,22 @@
 <h1>Hi I´m Álvaro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png , https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
+I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - React
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help<br>
+- 📫 Reach out to me at: <a href="alvaroMerida.dev@gmail.com">valenwerlecontacto@gmail.com</a>
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+
+</span>
