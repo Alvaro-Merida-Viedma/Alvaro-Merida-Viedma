@@ -4,7 +4,9 @@
 I am a web developer, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. 
 I love to learn and build something new, creative and helpfull.
 - 🌱 I’m currently learning ...
-  - React
+  - PHP
+  - JavaScript
+  - Java Swing
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="alvaroMerida.dev@gmail.com">alvaroMerida.dev@gmail.com</a>
