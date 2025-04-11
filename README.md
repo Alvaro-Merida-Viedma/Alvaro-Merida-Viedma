@@ -26,7 +26,7 @@ I love to learn and build something new, creative and helpfull.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 
-### Databases
+### 👉 Databases
 <span>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
