@@ -41,6 +41,5 @@ I love to learn and build something new, creative and helpfull.
 </p>
 
 ### 👉 AWS
-[![Credly Badge](https://images.credly.com/size/110x110/images/8ff1bad5-36c4-467d-b0fe-4834aadd5c76/badge.png)
-](https://www.credly.com/badges/8ff1bad5-36c4-467d-b0fe-4834aadd5c76/public_url)
+[![Credly Badge](https://images.credly.com/size/110x110/images/8ff1bad5-36c4-467d-b0fe-4834aadd5c76/badge.png)](https://www.credly.com/badges/8ff1bad5-36c4-467d-b0fe-4834aadd5c76/public_url)
 
