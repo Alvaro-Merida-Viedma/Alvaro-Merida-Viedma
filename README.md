@@ -4,9 +4,9 @@
 I am a web developer, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. 
 I love to learn and build something new, creative and helpfull.
 - 🌱 I’m currently learning ...
-  - PHP
-  - JavaScript
+  - AWS
   - Flutter
+  - Solidity
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="alvaroMerida.dev@gmail.com">alvaroMerida.dev@gmail.com</a>
@@ -26,7 +26,7 @@ I love to learn and build something new, creative and helpfull.
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,nodejs,express,css,bootstrap"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,nodejs,express,typescript,css,bootstrap"
     />
   </a>
 </p>
