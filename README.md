@@ -35,7 +35,7 @@ I love to learn and build something new, creative and helpfull.
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver.oracle"
+      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,oracle"
     />
   </a>
 </p>
