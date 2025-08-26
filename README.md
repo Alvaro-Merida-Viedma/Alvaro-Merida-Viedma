@@ -22,11 +22,20 @@ I love to learn and build something new, creative and helpfull.
   </a>
 </p>
 
+### 👉 Backend Development
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,nodejs,express,typescript"
+    />
+  </a>
+</p>
+
 ### 👉 Frontend Development
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,nodejs,express,css,bootstrap,typescript"
+      src="https://go-skill-icons.vercel.app/api/icons?i=css,bootstrap"
     />
   </a>
 </p>
