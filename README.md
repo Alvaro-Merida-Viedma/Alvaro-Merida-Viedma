@@ -17,7 +17,7 @@ I love to learn and build something new, creative and helpfull.
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,php"
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,php,javascript"
     />
   </a>
 </p>
@@ -26,7 +26,7 @@ I love to learn and build something new, creative and helpfull.
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,node"
     />
   </a>
 </p>
@@ -35,7 +35,7 @@ I love to learn and build something new, creative and helpfull.
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mysql, mysqlserver"
+      src="https://go-skill-icons.vercel.app/api/icons?i=mysql"
     />
   </a>
 </p>
