@@ -35,7 +35,7 @@ I love to learn and build something new, creative and helpfull.
 <p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,typescript,bootstrap,css,webpack"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,webpack,typescript,bootstrap,css"
     />
   </a>
 </p>
