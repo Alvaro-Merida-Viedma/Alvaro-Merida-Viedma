@@ -14,7 +14,7 @@ I love to learn and build something new, creative and helpfull.
 ## My Skills Include
 
 ### 👉 Programming Languages
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=java,php,javascript"
@@ -23,7 +23,7 @@ I love to learn and build something new, creative and helpfull.
 </p>
 
 ### 👉 Frontend Development
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=git,node"
@@ -32,7 +32,7 @@ I love to learn and build something new, creative and helpfull.
 </p>
 
 ### 👉 Databases
-<p align="center">
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=mysql"
