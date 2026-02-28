@@ -9,7 +9,7 @@ I love to learn and build something new, creative and helpfull.
   - Laravel
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- 📫 Reach out to me at: <a href="alvaroMerida.dev@gmail.com">alvaroMerida.dev@gmail.com</a>
+- 📫 Reach out to me at: <a href="alvaromerida.dev@gmail.com">alvaroMerida.dev@gmail.com</a>
 
 ## My Skills Include
 
