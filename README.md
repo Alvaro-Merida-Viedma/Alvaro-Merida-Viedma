@@ -55,4 +55,11 @@ I love to learn and build something new, creative and helpfull.
 ## My Projects
 
 ### Pacman
-  <a href="https://alvaro-merida-viedma.github.io/Pacman/">Demo Project
+  <a href="https://alvaro-merida-viedma.github.io/Pacman/">Play my game!!
+
+
+### todoList
+  <a href="https://alvaro-merida-viedma.github.io/todoList/">watch my Project!
+
+### Weather APi app
+  <a href="https://alvaro-merida-viedma.github.io/Weather/">check your weather in your city!
