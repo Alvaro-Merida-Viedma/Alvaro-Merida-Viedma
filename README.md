@@ -1,65 +1,58 @@
-<h1>Hi I´m Álvaro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi, I'm Álvaro 👋
 
+**Web Developer | Software Development | Continuous Learning**
 
-I am a web developer, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. 
-I love to learn and build something new, creative and helpfull.
-- 🌱 I’m currently learning ...
-  - Docker
-  - PrestaShop
-  - Laravel
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- 📫 Reach out to me at: <a href="alvaromerida.dev@gmail.com">alvaroMerida.dev@gmail.com</a>
+I'm a web developer focused on building practical software solutions and solving real-world problems through code.
 
-## My Skills Include
+I have experience working on web development, e-commerce platforms, custom software and cross-platform mobile applications. I enjoy exploring new technologies, improving my skills and building projects that combine creativity and functionality.
 
-### 👉 Programming Languages
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,php,javascript"
-    />
-  </a>
-</p>
+### 💻 Professional Experience
 
-### 👉 Backend Development
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,nodejs,express,laravel"
-    />
-  </a>
-</p>
+- **Web Development:** Developing and maintaining websites and e-commerce platforms.
+- **Custom Software:** Building tailored applications and business solutions, including warehouse management software.
+- **Mobile Development:** Creating cross-platform mobile applications using Flutter.
+- **Server & Security:** Configuring Nginx rules and implementing server-side improvements to strengthen security and mitigate automated bot traffic.
+- **E-commerce:** Working with WordPress, PrestaShop and Shopify.
 
-### 👉 Frontend Development
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,webpack,typescript,bootstrap,css"
-    />
-  </a>
-</p>
+### 🛠️ Technologies & Tools
 
-### 👉 Databases
-<p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlserver,oracle"
-    />
-  </a>
-</p>
+**Programming Languages**
 
-### 👉 AWS
-[![Credly Badge](https://images.credly.com/size/85x85/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](https://www.credly.com/badges/8ff1bad5-36c4-467d-b0fe-4834aadd5c76/public_url)
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,dart)](https://skillicons.dev)
 
-## My Projects
+**Backend & Frameworks**
 
-### Pacman
-  <a href="https://alvaro-merida-viedma.github.io/Pacman/">Play my game!!
+[![Backend & Frameworks](https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel)](https://skillicons.dev)
 
+**Mobile Development**
 
-### todoList
-  <a href="https://alvaro-merida-viedma.github.io/todoList/">watch my Project!
+[![Mobile Development](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
-### Weather APi app
-  <a href="https://alvaro-merida-viedma.github.io/Weather/">check your weather in your city!
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+**Infrastructure & Development Tools**
+
+[![Tools](https://skillicons.dev/icons?i=nginx,linux,git,github,vscode)](https://skillicons.dev)
+
+**Platforms & CMS**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=flat&logo=prestashop&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+
+### 🌱 Currently Learning
+
+- **Laravel:** Expanding my backend development knowledge and exploring its ecosystem.
+- **Cybersecurity:** Learning penetration testing through hands-on labs and practical exercises, particularly with Hack The Box.
+- **Rust:** A programming language I plan to explore in the future.
+
+### 🎓 Education
+
+Higher Technician in Web Application Development (DAW).
+
+### 📫 Get in Touch
+
+- **Email:** [alvaroMerida.dev@gmail.com](mailto:alvaroMerida.dev@gmail.com)
+- **GitHub:** [Alvaro-Merida-Viedma](https://github.com/Alvaro-Merida-Viedma)
