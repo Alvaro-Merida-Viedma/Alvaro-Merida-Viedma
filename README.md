@@ -54,5 +54,5 @@ Higher Technician in Web Application Development (DAW).
 
 ### 📫 Get in Touch
 
-- **Email:** [alvaroMerida.dev@gmail.com](mailto:alvaroMerida.dev@gmail.com)
+- **Email:** [alvaromerida.dev@gmail.com](mailto:alvaromerida.dev@gmail.com)
 - **GitHub:** [Alvaro-Merida-Viedma](https://github.com/Alvaro-Merida-Viedma)
