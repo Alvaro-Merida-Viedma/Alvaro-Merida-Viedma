@@ -22,7 +22,7 @@ I have experience working on web development, e-commerce platforms, custom softw
 
 **Backend & Frameworks**
 
-[![Backend & Frameworks](https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel,AndroidStudio)](https://skillicons.dev)
+[![Backend & Frameworks](https://skillicons.dev/icons?i=nodejs,express,nextjs,laravel)](https://skillicons.dev)
 
 **Mobile Development**
 
@@ -34,7 +34,7 @@ I have experience working on web development, e-commerce platforms, custom softw
 
 **Infrastructure & Development Tools**
 
-[![Tools](https://skillicons.dev/icons?i=nginx,linux,git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=nginx,linux,git,github,vscode,androidstudio)](https://skillicons.dev)
 
 **Platforms & CMS**
 
